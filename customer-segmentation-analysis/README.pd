@@ -1,0 +1,87 @@
+# 📊 Customer Segmentation & Value Analysis
+
+## 📌 Project Overview
+This project analyzes customer behavior and profitability using the Superstore dataset. The objective is to identify high-value customer segments and provide business insights to support marketing and sales strategies.
+
+---
+
+## 🎯 Business Questions
+- Which customer segments generate the highest revenue and profit?
+- What is the average revenue and profit per customer?
+- Are there customers generating high sales but low profitability?
+- How has business performance evolved over time?
+- Where are potential growth opportunities?
+
+---
+
+## 📦 Dataset
+Sample Superstore Dataset including:
+
+- Customer information
+- Sales and Profit data
+- Region and Segment data
+- Order and Time data
+
+---
+
+## 🛠 Tools & Technologies
+- Power BI
+- DAX
+- Data Modeling
+- Data Visualization
+- Business Analytics
+
+---
+
+## 📊 Key KPIs
+- Total Customers
+- Revenue per Customer
+- Profit per Customer
+- Average Order Value (AOV)
+
+---
+
+## 📈 Dashboard Features
+- Sales and Profit analysis by customer segment
+- Time trend analysis
+- Top 10 customers analysis
+- Customer profitability scatter analysis
+- Interactive filters by region, segment and year
+
+---
+
+## 📷 Dashboard Preview
+
+### Executive Overview
+![Executive Overview](dashboard-overview.png)
+
+### Customer Deep Dive Analysis
+![Customer Deep Dive](customer-analysis.png)
+
+---
+
+## 🧠 Key Insights
+- The Consumer segment generates the highest sales volume but lower profitability per customer.
+- A small number of customers contributes disproportionately to total revenue.
+- Some high-revenue customers show low profit margins, indicating potential pricing or discount inefficiencies.
+- Sales demonstrate a consistent growth trend over time.
+
+---
+
+## 📌 Business Recommendations
+- Strengthen retention strategies for high-profit customer segments.
+- Review pricing or discount policies for high-sales, low-profit customers.
+- Focus marketing efforts on customers with high profitability potential.
+- Replicate successful strategies from high-performing segments and regions.
+
+---
+
+## 📂 Project Files
+- Customer_Dashboard.pbix
+- Superstore Dataset
+- Dashboard Preview Images
+
+---
+
+## 👩‍💻 Author
+María Cecilia Marasco
